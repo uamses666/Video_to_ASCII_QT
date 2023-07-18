@@ -15,7 +15,7 @@ To build and run this program, you will need the following installed on your sys
 
 Qt framework
 OpenCV library
-#How to Use
+## How to Use
 
 Clone the repository or download the source code files.
 Open the Video_to_ASCII.pro file in Qt Creator.
