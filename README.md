@@ -14,7 +14,9 @@ Add a delay between frames for realistic video output.
 To build and run this program, you will need the following installed on your system:
 
 Qt framework
+
 OpenCV library
+
 ## How to Use
 
 Clone the repository or download the source code files.
